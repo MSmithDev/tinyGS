@@ -83,7 +83,8 @@ ConfigManager::ConfigManager()
   {      0x3c,       21,        22,     UNUSED,         0,        25,      RADIO_SX1276,    18,     26,     33,   UNUSED,  23,      19,     27,     5,     0.0f,   UNUSED, UNUSED, "868-915MHz LILYGO T3_V1.6.1"     },     // SX1276
   {      0x3c,       21,        22,     UNUSED,         0,        25,      RADIO_SX1276,    18,     26,   UNUSED,   32,    23,      19,     27,     5,     0.0f,   UNUSED, UNUSED, "868-915MHz LILYGO T3_V1.6.1 TCXO"    }, // SX1276
   {      0x3c,       21,        22,     UNUSED,        38,         4,      RADIO_SX1268,    18,     26,     33,     32,    23,      19,     27,     5,     1.6f,   UNUSED, UNUSED, "433 Mhz T-Beam SX1268 V1.0"    }, // SX1268 @ Antonio 
-  
+  {      0x3c,       21,        22,     UNUSED,         0,         2,      RADIO_SX1278,    18,     26,     33,   UNUSED,  23,      19,     27,     5,     0.0f,   UNUSED, UNUSED, "433MHz LILYGO T-Eth"     },             // SX1278
+  {      0x3c,       21,        22,     UNUSED,         0,         2,      RADIO_SX1276,    18,     26,     33,   UNUSED,  23,      19,     27,     5,     0.0f,   UNUSED, UNUSED, "868-915MHz LILYGO T-Eth"     },         // SX1276
 
  #endif
   })

@@ -104,6 +104,8 @@ enum boardNum
   LILYGO_T3_V1_6_1_HF,
   LILYGO_T3_V1_6_1_HF_TCXO,
   TBEAM_SX1268_TCXO,
+  LILYGO_T_ETH_LF,
+  LILYGO_T_ETH_HF,
 #endif
   NUM_BOARDS //this line always has to be the last one
 };
