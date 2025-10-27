@@ -39,6 +39,7 @@
     ESP32 dev board + SX126X with crystal (Custom build, OLED optional)
     ESP32 dev board + SX126X with TCXO (Custom build, OLED optional)
     ESP32 dev board + SX127X (Custom build, OLED optional)
+    LILYGO T-Eth (433MHz & 868-915MHz versions)
 
   Supported modules
     sx126x
